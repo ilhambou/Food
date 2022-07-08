@@ -4,8 +4,6 @@ function App() {
     <div className="App">
       <Pages />
 
-      
-
     </div>
   );
 }
