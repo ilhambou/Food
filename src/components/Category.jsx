@@ -53,8 +53,8 @@ const SLink = styled(NavLink)` //NavLink = Slink
    
     cursor: pointer;
     text-decoration: blink;
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
    
   
  
